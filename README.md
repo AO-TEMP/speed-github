@@ -1,5 +1,5 @@
 # speed-github
-一键解决github在国内加载和下载速度慢的问题
+一键解决github在国内加载和下载速度慢的问题:laughing::laughing:
 
 
 ### 速度慢原因
@@ -40,7 +40,7 @@ CDN，Content Distribute Network，可以直译成内容分发网络，CDN解决
 - python3+
 - 依赖库
 	- BeautifulSoup
-	- requsts
+	- requests
 	- shutil
 
 ### 使用方式
